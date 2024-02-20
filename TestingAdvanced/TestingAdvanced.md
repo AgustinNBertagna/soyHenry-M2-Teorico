@@ -1,4 +1,4 @@
-> # ***Modulo 2 - Clase 4: Node***
+> # ***Modulo 2 - Clase 5: Testing Advanced***
 
 > ## ***Objetivos***
 
@@ -147,4 +147,14 @@ Con Jest vamos a generar tests unitarios. Es decir, utilizando el conjunto de m�
     });
   });
   ```
+***
+> ## ***Cierre***
+
+* ### **En conclusión...**
+
+  * ***Hemos visto que Jest:*** Nos ofrece un marco sólido para escribir tests unitarios y de integración. La capacidad de crear mocks nos permite simular el comportamiento de funciones y objetos dependientes, mejorando así la cobertura de nuestras pruebas. Esto asegura que las pruebas se centren en el código específico que estamos evaluando, sin depender del comportamiento de otras partes del sistema.
+
+  * ***La capacidad de simular Funciones y Objetos:*** Reduce la necesidad de ejecutar pruebas en un entorno de ejecución completo. Esto puede acelerar significativamente el tiempo de ejecución de las pruebas, lo que es esencial en proyectos grandes.
+
+  ![TestingAdvanced](./cierreTestingAdvanced.png)
 ***
