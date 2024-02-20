@@ -126,3 +126,16 @@ Si quieres visualizar la información JSON de tu navegador de una forma más ami
     operacion(5, 3, callback); // El resultado es: 8
     ```
 ***
+> ## ***Cierre***
+
+* **En conclusión...**
+
+  En esta clase comprendimos temas fundamentales para el proceso de intercambio de información dentro de una página web. También revisamos cómo podemos trabajar solicitudes asincrónicas dentro de JavaScript.
+
+  * ***Hemos aprendido que el Asincronismo:*** Hace referencia a la capacidad de realizar tareas sin bloquear el flujo principal del programa. Esto es especialmente importante cuando se enfrenta a operaciones que pueden llevar tiempo, como la lectura de archivos, solicitudes a servidores, etc. Además, a pesar de que el motor de JavaScript es síncrono por naturaleza, puede utilizar un modelo de ejecución asíncrona.
+
+  * ***Conocimos a AJAX:*** Como una técnica que permite realizar solicitudes asincrónicas al servidor desde el navegador sin recargar la página por completo, mejorando significativamente la experiencia del usuario al llevar a cabo actualizaciones dinámicas en los sitios web.
+
+  * ***Recordamos a los Callbacks:*** Como funciones que se pasan como argumentos a otras funciones y se ejecutan después de que se complete alguna operación, siendo fundamentales en JavaScript para manejar operaciones asincrónicas.
+
+    ![AJAX](./cierreAJAX.jpg)
