@@ -197,3 +197,13 @@
 
   Esta extensión de Microsoft utiliza IA para analizar tu código y ofrecerte sugerencias de autocompletado inteligentes basadas en patrones de programación comunes y en millones de líneas de código de otros desarrolladores. A medida que la utilices, IntelliCode se adaptará a tu estilo de codificación personal.
 ***
+> ## ***Cierre***
+
+* ### **En conclusión...**
+
+  * ***Hemos dado pasos significativos en el mundo de Express:*** Desde la creación de nuestro servidor HTTP hasta la organización estructurada con controladores, enrutadores y modularización. Exploramos cómo express simplifica la creación de servidores y estructuración de nuestro código.
+
+  * ***Recuerda:*** Cada bloque de código es una pieza del rompecabezas.
+
+  ![Express](./cierreExpress.png)
+***
