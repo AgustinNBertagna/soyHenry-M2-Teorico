@@ -225,3 +225,15 @@
   
     ![processing](./processing.png)
 ***
+> ## ***Cierre***
+
+* ### **En conclusión...**
+
+  * ***Exploramos conceptos fundamentales sobre el Asincronismo en JavaScript:*** Y su aplicación en prácticas comunes. Abordamos temas como peticiones HTTP utilizando fetch y la librería axios, y descubrimos que el asincronismo es fundamental para manejar nuestro código.
+
+  * ***Pusimos en práctica el concepto de Promesas:*** Para representar el resultado de una operación asíncrona y cómo manejarlo. A su vez, revisamos el formato async/await como una nueva sintaxis para definir promesas. Ahondamos en los manejadores de promesas con los métodos then y catch para la forma tradicional, así como el uso de try/catch para la nueva sintaxis.
+
+  * ***Realizamos algunas operaciones Asincrónicas:*** Como lectura/escritura de archivos y conexiones a servicios.
+
+  ![Asincronismo](./cierreAsincronismo.png)
+***
