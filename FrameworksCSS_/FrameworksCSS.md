@@ -159,3 +159,15 @@
     
     Bootstrap incluye algunas clases para agregar márgenes, padding o interlineado de forma sencilla.
 ***
+> ## ***Cierre***
+
+* ### **En conclusión...**
+
+  * ***En esta clase hemos comprendido qué son los frameworks de CSS:*** Bootstrap, Bulma, Foundation, Materialize y Tailwind CSS, han demostrado ser indispensables para los desarrolladores, proporcionando soluciones elegantes y rápidas para los desafíos comunes del diseño web.
+
+  * ***Hemos observado cómo cada Framework:*** Tiene sus propias fortalezas y enfoques, permitiéndonos elegir la herramienta más adecuada según los requisitos del proyecto y nuestras preferencias personales.
+
+  * ***Aprendimos que la implementación de un Framework de CSS:*** No sólo acelera el proceso de desarrollo, sino que además ofrece un conjunto coherente de reglas y estilos que garantizan la uniformidad visual en toda nuestra aplicación. La capacidad de crear interfaces responsive, usar componentes reutilizables y diseños atractivos con relativa facilidad.
+
+  ![FrameworksCss_](./cierreFrameworksCss_.jpg)
+***
