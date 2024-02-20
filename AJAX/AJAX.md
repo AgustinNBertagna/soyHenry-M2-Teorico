@@ -138,4 +138,4 @@ Si quieres visualizar la información JSON de tu navegador de una forma más ami
 
   * ***Recordamos a los Callbacks:*** Como funciones que se pasan como argumentos a otras funciones y se ejecutan después de que se complete alguna operación, siendo fundamentales en JavaScript para manejar operaciones asincrónicas.
 
-    ![AJAX](./cierreAJAX.jpg)
+  ![AJAX](./cierreAJAX.jpg)
