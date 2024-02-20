@@ -238,3 +238,16 @@
             });
             ```
 ***
+> ## ***Cierre***
+
+* ### **En conclusión...**
+
+  * ***Profundizamos más en mongoose y las herramientas que lo componen:*** Vimos los principales métodos para hacer consultas, crear, eliminar o actualizar datos basada en ciertas condiciones.
+
+  * ***Exploramos las relaciones por Referencia:*** Que permiten vincular documentos de distintas colecciones mediante referencias en los schemas, facilitando la estructuración de documentos que se enlazan unos con otros.
+
+  * ***Conocimos el método populate:*** Que permite reemplazar referencias a documentos por datos más detallados de los documentos relacionados a otros sobre los que se consulta. Esto flexibiliza las queries y evita llevar a cabo múltiples consultas separadas para obtener la misma información solicitada.
+
+  * ***Descubrimos el método lean:*** Que proporciona documentos como objetos de JavaScript, en lugar de instancias de modelos Mongoose. Introdujimos los métodos estáticos, que afectan a todas las instancias del modelo, y los dinámicos, que solo alteran instancias concretas que nosotros escojamos.
+
+  ![MongooseII](./cierreMongooseII.png)
