@@ -139,3 +139,12 @@ Cuando queríamos agregar lógica de JavaScript a un archivo de HTML utilizábam
 
   4. ***Evaluar los resultados en comparación con los anteriores.***
 ***
+> ## ***Cierre***
+
+* ### En conclusión...
+
+  * ***Hemos explorado las bases fundamentales de Node:***, un entorno de ejecución. Además, abordamos el concepto de módulos. La capacidad de exportar e importar módulos nos permite construir aplicaciones más organizadas y mantenibles.
+
+  * ***Revisamos el manejo de versiones:*** Las dependencias nos garantizan la coherencia y prevención de problemas de compatibilidad.
+
+  ![Node](./cierreNode.jpg)
