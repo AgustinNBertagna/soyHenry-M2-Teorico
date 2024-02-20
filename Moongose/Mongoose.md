@@ -84,3 +84,15 @@
 
   * #### ***El modelo utiliza el schema para proporcionar un objeto con el que podremos interactuar con la base de datos.***
 ***
+> ## ***Cierre***
+
+* ### **En conclusión...**
+
+  * ***Aprendimos qué es un ODM:*** Y cómo estas herramientas pueden ayudarnos a realizar la gestión de información con una base de datos desde nuestro servidor. En este caso hemos revisado y puesto en práctica el ODM mongoose.
+
+  * ***Aprendimos inicializar su Configuración:*** Dentro de node así como también definir los elementos que requerimos para realizar la transferencia de información (schemas y modelos). Estos nos ayudan a construir las estructuras de datos dentro de las cuales se almacenará la información.
+
+  * ***Realizamos la integración de Mongoose con Express:*** Para poder gestionar la información de la base de datos en nuestro servidor por medio de solicitudes de HTTP.
+
+  ![Mongoose](./cierreMongoose.png)
+***
