@@ -128,7 +128,7 @@ Si quieres visualizar la información JSON de tu navegador de una forma más ami
 ***
 > ## ***Cierre***
 
-* **En conclusión...**
+* ### **En conclusión...**
 
   En esta clase comprendimos temas fundamentales para el proceso de intercambio de información dentro de una página web. También revisamos cómo podemos trabajar solicitudes asincrónicas dentro de JavaScript.
 
