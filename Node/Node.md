@@ -148,3 +148,4 @@ Cuando queríamos agregar lógica de JavaScript a un archivo de HTML utilizábam
   * ***Revisamos el manejo de versiones:*** Las dependencias nos garantizan la coherencia y prevención de problemas de compatibilidad.
 
   ![Node](./cierreNode.jpg)
+***
