@@ -63,3 +63,12 @@
 
     En cuanto a las estrategias de validación utilizando middlewares, existen varias maneras de implementar validaciones en Express. Puedes crear middlewares personalizados que verifiquen los datos de entrada, asegurándote de que cumplan con ciertos criterios antes de pasarlos a la lógica principal de la aplicación. Además, también puedes aprovechar middlewares pre-construidos o bibliotecas especializadas en validaciones para simplificar este proceso.
 ***
+> ## ***Cierre***
+
+* ### **En conclusión...**
+
+  * ***Profundizamos en Express:*** Y exploramos conceptos clave como servicios hasta la implementación de middlewares validadores.
+
+  * ***Vimos qué es un Servicio y cuál es su diferencia con los Controladores:*** Luego, exploramos middlewares pre-construidos como `morgan`, `express.json()` y `cors`, y también creamos nuestros propios middlewares personalizados.
+
+  ![ExpressII](./cierreExpressII.png)
