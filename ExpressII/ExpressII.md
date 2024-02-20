@@ -72,3 +72,4 @@
   * ***Vimos qué es un Servicio y cuál es su diferencia con los Controladores:*** Luego, exploramos middlewares pre-construidos como `morgan`, `express.json()` y `cors`, y también creamos nuestros propios middlewares personalizados.
 
   ![ExpressII](./cierreExpressII.png)
+***
