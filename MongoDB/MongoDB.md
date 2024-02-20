@@ -157,3 +157,12 @@
 
     Ya sabemos que el Atlas nos permitirá administrar una base de datos en la nube. Ahora, conoceremos una nueva herramienta llamada MongoDB Compass que será la interfaz mediante la cuál podremos trabajar con la base de datos de la nube.
 ***
+> ## ***Cierre***
+
+* ### **En conclusión...**
+
+  * ***Hemos conocido las bases de datos NoSQL:*** Con enfoque especial en MongoDB. Comprendimos por qué elegimos bases de datos NoSQL, reconociendo su flexibilidad y adaptabilidad para gestionar grandes volúmenes de datos con estructuras dinámicas.
+
+  * ***Conocimos los elementos principales de MongoDB:*** Documentos, colecciones y referencias, y cómo estos se relacionan entre sí. Aprendimos a utilizar MongoDB Atlas, la plataforma en la nube de MongoDB, para gestionar y desplegar nuestras bases de datos en entornos en la nube. Además descargamos e instalamos MongoDB Compass, una interfaz gráfica que nos permite explorar y manipular datos de manera visual. Conectamos Compass a nuestro cluster en MongoDB Atlas.
+
+  ![MongoDB](cierreMongoDB.png)
