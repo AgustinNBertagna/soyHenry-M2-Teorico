@@ -166,3 +166,4 @@
   * ***Conocimos los elementos principales de MongoDB:*** Documentos, colecciones y referencias, y cómo estos se relacionan entre sí. Aprendimos a utilizar MongoDB Atlas, la plataforma en la nube de MongoDB, para gestionar y desplegar nuestras bases de datos en entornos en la nube. Además descargamos e instalamos MongoDB Compass, una interfaz gráfica que nos permite explorar y manipular datos de manera visual. Conectamos Compass a nuestro cluster en MongoDB Atlas.
 
   ![MongoDB](cierreMongoDB.png)
+***
