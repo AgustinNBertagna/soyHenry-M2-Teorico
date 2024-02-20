@@ -111,3 +111,19 @@ Define siete capas de encapsulamiento y es probable que hayas encontrado algunas
 
 ![httpRequest](./httpRequest.jpg)
 ***
+>## ***Cierre***
+
+* ### **En conclusión...**
+
+  En esta clase exploramos la estructura de un proyecto full stack, dividiéndola en dos componentes: 
+
+  * ***Frontend:*** Se centra en la experiencia del usuario; todo lo que vemos y con lo que interactuamos en una página web.
+
+  * ***Backend:*** Trabaja "detrás de escena", gestionando la lógica de la aplicación, interactuando directamente con la base de datos, entre otras funciones.
+
+  * ***Introdujimos el concepto de API:*** Que nos permite gestionar y regular la comunicación entre ambos extremos. Revisamos el estilo de arquitectura RESTful, el cual es un enfoque que organiza las interacciones entre sistemas.
+
+  * ***Dimos una explicación del protocolo HTTP:*** Que es el fundamento comunicacional en internet que se encarga de regular las solicitudes y respuestas de información entre cliente y servidor mediante el empleo de métodos que representan los cuatro principales tipos de interacciones correspondientes al sistema CRUD.
+  
+  ![proyectoFullStack](./cierreFullStack.png)
+***
