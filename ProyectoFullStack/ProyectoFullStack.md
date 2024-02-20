@@ -111,7 +111,7 @@ Define siete capas de encapsulamiento y es probable que hayas encontrado algunas
 
 ![httpRequest](./httpRequest.jpg)
 ***
->## ***Cierre***
+> ## ***Cierre***
 
 * ### **En conclusión...**
 
