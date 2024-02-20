@@ -105,3 +105,19 @@ La importancia de las bases de datos radica en su capacidad para ofrecer acceso 
 
   ***Nota:*** El uso de formatos de almacenamiento adecuados es esencial para garantizar que los datos se guarden y recuperen de manera eficiente. Al comprender los sistemas de archivos, el almacenamiento local y los formatos de almacenamiento, como desarrolladores podemos tomar decisiones informadas sobre cómo estructurar y gestionar datos en nuestras aplicaciones.
 ***
+> ## ***Cierre***
+
+* ### **En conclusión...**
+
+  * ***Hemos conocido diferentes conceptos muy Importantes:*** Que son la base de cómo persistimos y gestionamos datos en entornos informáticos. Comenzamos entendiendo la importancia de la persistencia de datos, que nos permite almacenar información de manera duradera incluso cuando nuestros dispositivos se apagan.
+
+  * ***Introducimos la idea de los sistemas de Archivos:*** Comparándolos con organizadores, donde guardamos carpetas y archivos. Aprendimos que, aunque son simples de entender y cada aplicación puede tener su propio archivo de datos, pueden volverse desordenados y menos eficientes para grandes cantidades de datos.
+
+  * ***Abarcamos el concepto de Almacenamiento Local:*** Utilizando un ejemplo de una caja de juguetes con compartimentos especiales. Vimos cómo, a diferencia de los sistemas de archivos, el almacenamiento local proporciona una forma más eficiente y organizada de persistir datos en el contexto de una aplicación.
+
+  * ***Hemos conocido los formatos de Almacenamiento:*** Destacando el formato JSON como una opción común debido a su estructura clara y legible. Este formato nos permite representar datos de manera eficiente tanto para humanos como para máquinas.
+
+  * ***A través de un ejemplo práctico en Código:*** Demostramos cómo guardar información en el almacenamiento local utilizando JSON.
+
+  * ***Es fundamental comprender cómo podemos persistir Datos:*** Los sistemas de archivos, el almacenamiento local y los formatos de almacenamiento como JSON son herramientas clave para los desarrolladores.
+***
