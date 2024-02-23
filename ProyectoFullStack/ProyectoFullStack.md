@@ -12,7 +12,7 @@
 
 * ### **¿Qué es?**
 
-    Nos referimos a **FrontEnd** como un pedazo de la aplicación que solo seenfoca en la interacción con lo usuarios. De este lado, el objetivo es presentar información útil, definirla visualización de datos y gestionar las interacciones de este con la aplicación.
+    El **FrontEnd** es un fragmento de la aplicación que solo se enfoca en la interacción con lo usuarios. De este lado, el objetivo es presentar información útil, definir la visualización de datos y gestionar las interacciones de este con la aplicación.
 
 * ### **Tecnologías comunes**
   
