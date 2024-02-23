@@ -97,7 +97,7 @@
   const funcionHija = funcionPadre();
   funcionHija(); // "Soy externa"
   ```
-
+***
 > ## ***Cierre***
 
 * ### **En conclusión...**
@@ -112,3 +112,4 @@
   * ***Las Closures:*** Son funciones que tienen acceso a variables de un contexto externo, incluso después de que la función externa haya finalizado su ejecución.
 
   ![JavaScript Avanzado](./cierreJsAvanzado.png)
+***
