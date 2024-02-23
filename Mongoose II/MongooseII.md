@@ -251,3 +251,4 @@
   * ***Descubrimos el método lean:*** Que proporciona documentos como objetos de JavaScript, en lugar de instancias de modelos Mongoose. Introdujimos los métodos estáticos, que afectan a todas las instancias del modelo, y los dinámicos, que solo alteran instancias concretas que nosotros escojamos.
 
   ![MongooseII](./cierreMongooseII.png)
+***
