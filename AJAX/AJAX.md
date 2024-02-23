@@ -97,7 +97,7 @@ Las aplicaciones web tradicionales solían requerir una recarga completa de la p
 
 > ## ***[JSON Placeholder](https://jsonplaceholder.typicode.com/)***
 
-Antes de planificar la forma en que deseamos traer la información, primero es necesario entender qué recibiremos como resultado de la consulta. Si visitamos la página web encontraremos una API pública que contiene recursos relacionados con usuarios, posts, etc. 
+  Antes de planificar la forma en que deseamos traer la información, primero es necesario entender qué recibiremos como resultado de la consulta. Si visitamos la página web encontraremos una API pública que contiene recursos relacionados con usuarios, posts, etc. 
 
 * ### **¿Qué es?**
     
