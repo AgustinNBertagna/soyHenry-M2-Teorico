@@ -99,7 +99,7 @@ Define siete capas de encapsulamiento y es probable que hayas encontrado algunas
 
 > ## ***Metodos HTTP***
 
-* ### ***GET:*** Se utiliza para obtener información de un recurso. Corresponde a la operación de "Read".Obtiene datos existentes.
+* ***GET:*** Se utiliza para obtener información de un recurso. Corresponde a la operación de "Read".Obtiene datos existentes.
 
 * ***POST:*** Se utiliza para enviar datos al servidor para crear un nuevo recurso. Corresponde a la operación de "Create". Crea nueva información.
 
